@@ -1,0 +1,200 @@
+[
+  {
+    "Id": 1,
+    "name": "Bombay Palace Restaurant",
+    "category": "Restaurant",
+    "subcategory": "North Indian",
+    "description": "Authentic North Indian cuisine with traditional tandoor dishes and vegetarian specialties. Family-owned restaurant serving the community for over 15 years.",
+    "location": {
+      "address": "39150 Fremont Hub, Fremont, CA 94538",
+      "city": "Fremont",
+      "state": "CA",
+      "zipCode": "94538",
+      "coordinates": { "lat": 37.5485, "lng": -121.9886 }
+    },
+    "contact": {
+      "phone": "(510) 792-1002",
+      "email": "info@bombaypalacefremont.com",
+      "website": "https://bombaypalacefremont.com"
+    },
+    "owner": "Suresh Kumar",
+    "verified": true,
+    "rating": 4.5,
+    "reviewCount": 234,
+    "priceRange": "$$",
+    "hours": {
+      "monday": "11:00 AM - 9:30 PM",
+      "tuesday": "11:00 AM - 9:30 PM",
+      "wednesday": "11:00 AM - 9:30 PM",
+      "thursday": "11:00 AM - 9:30 PM",
+      "friday": "11:00 AM - 10:00 PM",
+      "saturday": "11:00 AM - 10:00 PM",
+      "sunday": "11:00 AM - 9:30 PM"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1574484284002-952d92456975?w=600&h=400&fit=crop"
+    ],
+    "services": ["Dine-in", "Takeout", "Delivery", "Catering"],
+    "specialties": ["Tandoor", "Vegetarian", "Biryani", "Naan"],
+    "joinedDate": "2023-01-20"
+  },
+  {
+    "Id": 2,
+    "name": "Dr. Patel Medical Clinic",
+    "category": "Healthcare",
+    "subcategory": "Family Medicine",
+    "description": "Comprehensive family healthcare services with bilingual staff. Specialized in preventive care and chronic disease management for the Indian community.",
+    "location": {
+      "address": "1847 Warm Springs Blvd, Fremont, CA 94539",
+      "city": "Fremont",
+      "state": "CA",
+      "zipCode": "94539",
+      "coordinates": { "lat": 37.5234, "lng": -121.9292 }
+    },
+    "contact": {
+      "phone": "(510) 656-2000",
+      "email": "appointments@drpatelclinic.com",
+      "website": "https://drpatelclinic.com"
+    },
+    "owner": "Dr. Ravi Patel",
+    "verified": true,
+    "rating": 4.8,
+    "reviewCount": 156,
+    "priceRange": "$$$",
+    "hours": {
+      "monday": "8:00 AM - 6:00 PM",
+      "tuesday": "8:00 AM - 6:00 PM",
+      "wednesday": "8:00 AM - 6:00 PM",
+      "thursday": "8:00 AM - 6:00 PM",
+      "friday": "8:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 2:00 PM",
+      "sunday": "Closed"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&h=400&fit=crop"
+    ],
+    "services": ["Family Medicine", "Preventive Care", "Chronic Disease Management", "Immigration Physicals"],
+    "specialties": ["Hindi/Gujarati Speaking", "Insurance Accepted", "Same Day Appointments"],
+    "joinedDate": "2023-02-15"
+  },
+  {
+    "Id": 3,
+    "name": "Sari Palace Boutique",
+    "category": "Retail",
+    "subcategory": "Clothing & Jewelry",
+    "description": "Exquisite collection of Indian traditional wear including saris, lehengas, and jewelry. Custom tailoring services available.",
+    "location": {
+      "address": "37350 Fremont Blvd, Fremont, CA 94536",
+      "city": "Fremont",
+      "state": "CA",
+      "zipCode": "94536",
+      "coordinates": { "lat": 37.5431, "lng": -121.9932 }
+    },
+    "contact": {
+      "phone": "(510) 795-8844",
+      "email": "info@saripalaceboutique.com",
+      "website": "https://saripalaceboutique.com"
+    },
+    "owner": "Meera Shah",
+    "verified": true,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "priceRange": "$$-$$$",
+    "hours": {
+      "monday": "11:00 AM - 8:00 PM",
+      "tuesday": "11:00 AM - 8:00 PM",
+      "wednesday": "11:00 AM - 8:00 PM",
+      "thursday": "11:00 AM - 8:00 PM",
+      "friday": "11:00 AM - 8:00 PM",
+      "saturday": "10:00 AM - 8:00 PM",
+      "sunday": "11:00 AM - 7:00 PM"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1594736797933-d0c6ca17f4d4?w=600&h=400&fit=crop"
+    ],
+    "services": ["Custom Tailoring", "Alterations", "Wedding Collections", "Jewelry"],
+    "specialties": ["Bridal Wear", "Festival Collections", "Designer Saris", "Jewelry Matching"],
+    "joinedDate": "2023-03-10"
+  },
+  {
+    "Id": 4,
+    "name": "Spice Bazaar Indian Grocery",
+    "category": "Grocery",
+    "subcategory": "Indian Groceries",
+    "description": "Complete Indian grocery store with fresh vegetables, spices, frozen foods, and household items. Weekly fresh produce delivery from local farms.",
+    "location": {
+      "address": "43719 Boscell Rd, Fremont, CA 94538",
+      "city": "Fremont",
+      "state": "CA",
+      "zipCode": "94538",
+      "coordinates": { "lat": 37.5523, "lng": -121.9774 }
+    },
+    "contact": {
+      "phone": "(510) 656-5050",
+      "email": "orders@spicebazaarfremont.com",
+      "website": "https://spicebazaarfremont.com"
+    },
+    "owner": "Arjun Gupta",
+    "verified": true,
+    "rating": 4.4,
+    "reviewCount": 312,
+    "priceRange": "$-$$",
+    "hours": {
+      "monday": "10:00 AM - 9:00 PM",
+      "tuesday": "10:00 AM - 9:00 PM",
+      "wednesday": "10:00 AM - 9:00 PM",
+      "thursday": "10:00 AM - 9:00 PM",
+      "friday": "10:00 AM - 9:00 PM",
+      "saturday": "10:00 AM - 9:00 PM",
+      "sunday": "10:00 AM - 8:00 PM"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=400&fit=crop"
+    ],
+    "services": ["Fresh Produce", "Online Ordering", "Home Delivery", "Bulk Orders"],
+    "specialties": ["Fresh Vegetables", "Authentic Spices", "Frozen Foods", "Religious Items"],
+    "joinedDate": "2023-01-05"
+  },
+  {
+    "Id": 5,
+    "name": "Lotus Insurance Services",
+    "category": "Professional Services",
+    "subcategory": "Insurance",
+    "description": "Comprehensive insurance solutions for the Indian community including auto, home, life, and business insurance. Multilingual support available.",
+    "location": {
+      "address": "39155 Liberty St, Fremont, CA 94538",
+      "city": "Fremont",
+      "state": "CA",
+      "zipCode": "94538",
+      "coordinates": { "lat": 37.5478, "lng": -121.9881 }
+    },
+    "contact": {
+      "phone": "(510) 792-5500",
+      "email": "quotes@lotusinsurance.com",
+      "website": "https://lotusinsuranceservices.com"
+    },
+    "owner": "Deepak Sharma",
+    "verified": true,
+    "rating": 4.7,
+    "reviewCount": 67,
+    "priceRange": "$$",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&fit=crop"
+    ],
+    "services": ["Auto Insurance", "Home Insurance", "Life Insurance", "Business Insurance"],
+    "specialties": ["Multilingual Service", "Competitive Rates", "Claims Assistance", "New Immigrant Friendly"],
+    "joinedDate": "2023-04-20"
+  }
+]

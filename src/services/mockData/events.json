@@ -1,0 +1,150 @@
+[
+  {
+    "Id": 1,
+    "communityId": 1,
+    "title": "Diwali Community Celebration",
+    "description": "Join us for a grand Diwali celebration with traditional foods, cultural performances, and fun activities for the whole family. Bring your appetite and festive spirit!",
+    "date": "2024-11-01T18:00:00Z",
+    "endDate": "2024-11-01T22:00:00Z",
+    "location": {
+      "name": "Fremont Community Center",
+      "address": "3375 Country Dr, Fremont, CA 94536",
+      "coordinates": { "lat": 37.5485, "lng": -121.9886 }
+    },
+    "organizer": "Priya Sharma",
+    "organizerId": 1,
+    "attendees": [1, 2, 4, 5],
+    "capacity": 200,
+    "ticketPrice": 0,
+    "category": "Cultural Celebration",
+    "tags": ["diwali", "festival", "family", "food", "cultural"],
+    "image": "https://images.unsplash.com/photo-1605979399758-5f96d4b6c43b?w=600&h=400&fit=crop",
+    "status": "upcoming",
+    "requirements": ["Bring a dish to share", "RSVP required"],
+    "agenda": [
+      { "time": "18:00", "activity": "Welcome & Registration" },
+      { "time": "18:30", "activity": "Traditional Rangoli Competition" },
+      { "time": "19:00", "activity": "Community Dinner" },
+      { "time": "20:00", "activity": "Cultural Performances" },
+      { "time": "21:30", "activity": "Diya Lighting Ceremony" }
+    ]
+  },
+  {
+    "Id": 2,
+    "communityId": 2,
+    "title": "Tech Career Panel: Breaking into FAANG",
+    "description": "Learn from successful Indian professionals who've made it to top tech companies. Panel discussion followed by networking session and Q&A.",
+    "date": "2024-02-15T19:00:00Z",
+    "endDate": "2024-02-15T21:00:00Z",
+    "location": {
+      "name": "Google Mountain View Campus",
+      "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043",
+      "coordinates": { "lat": 37.4220, "lng": -122.0840 }
+    },
+    "organizer": "Vikram Singh",
+    "organizerId": 4,
+    "attendees": [1, 4],
+    "capacity": 100,
+    "ticketPrice": 15,
+    "category": "Professional Development",
+    "tags": ["tech", "career", "networking", "faang", "panel"],
+    "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=400&fit=crop",
+    "status": "upcoming",
+    "requirements": ["Bring business cards", "LinkedIn profile recommended"],
+    "agenda": [
+      { "time": "19:00", "activity": "Welcome & Networking" },
+      { "time": "19:30", "activity": "Panel Discussion" },
+      { "time": "20:30", "activity": "Q&A Session" },
+      { "time": "20:50", "activity": "Closing Remarks" }
+    ]
+  },
+  {
+    "Id": 3,
+    "communityId": 3,
+    "title": "Holi Color Festival",
+    "description": "Celebrate the festival of colors with music, dance, and traditional Holi festivities. Come in white clothes and be ready to get colorful!",
+    "date": "2024-03-09T14:00:00Z",
+    "endDate": "2024-03-09T18:00:00Z",
+    "location": {
+      "name": "Roosevelt Park",
+      "address": "1 Talmadge Ave, Edison, NJ 08837",
+      "coordinates": { "lat": 40.5195, "lng": -74.3927 }
+    },
+    "organizer": "Rajesh Patel",
+    "organizerId": 2,
+    "attendees": [2, 5],
+    "capacity": 300,
+    "ticketPrice": 10,
+    "category": "Cultural Celebration",
+    "tags": ["holi", "festival", "colors", "music", "dance"],
+    "image": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?w=600&h=400&fit=crop",
+    "status": "upcoming",
+    "requirements": ["Wear white clothes", "Bring water bottle"],
+    "agenda": [
+      { "time": "14:00", "activity": "Registration & Welcome" },
+      { "time": "14:30", "activity": "Traditional Holi Ceremony" },
+      { "time": "15:00", "activity": "Color Play Begins" },
+      { "time": "16:00", "activity": "Music & Dance" },
+      { "time": "17:00", "activity": "Traditional Snacks" }
+    ]
+  },
+  {
+    "Id": 4,
+    "communityId": 4,
+    "title": "Indian Cooking Workshop: South Indian Delicacies",
+    "description": "Learn to make authentic South Indian dishes from experienced home cooks. Hands-on workshop with recipe cards and tasting session.",
+    "date": "2024-02-24T10:00:00Z",
+    "endDate": "2024-02-24T14:00:00Z",
+    "location": {
+      "name": "Sugar Land Community Kitchen",
+      "address": "226 Matlage Way, Sugar Land, TX 77478",
+      "coordinates": { "lat": 29.6196, "lng": -95.6349 }
+    },
+    "organizer": "Anita Reddy",
+    "organizerId": 3,
+    "attendees": [3],
+    "capacity": 25,
+    "ticketPrice": 35,
+    "category": "Workshop",
+    "tags": ["cooking", "workshop", "south-indian", "food", "learning"],
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&h=400&fit=crop",
+    "status": "upcoming",
+    "requirements": ["Bring apron", "All ingredients provided"],
+    "agenda": [
+      { "time": "10:00", "activity": "Welcome & Introduction" },
+      { "time": "10:30", "activity": "Sambar & Rasam Making" },
+      { "time": "12:00", "activity": "Dosa & Chutney Workshop" },
+      { "time": "13:00", "activity": "Tasting & Recipe Sharing" }
+    ]
+  },
+  {
+    "Id": 5,
+    "communityId": 1,
+    "title": "Cricket Tournament - Bay Area Cup",
+    "description": "Annual cricket tournament for Indian community teams across Bay Area. Register your team or come cheer for your favorite players!",
+    "date": "2024-04-14T08:00:00Z",
+    "endDate": "2024-04-14T18:00:00Z",
+    "location": {
+      "name": "Central Park Cricket Ground",
+      "address": "40000 Paseo Padre Pkwy, Fremont, CA 94538",
+      "coordinates": { "lat": 37.5331, "lng": -121.9620 }
+    },
+    "organizer": "Vikram Singh",
+    "organizerId": 4,
+    "attendees": [1, 4],
+    "capacity": 500,
+    "ticketPrice": 0,
+    "category": "Sports",
+    "tags": ["cricket", "tournament", "sports", "competition", "teams"],
+    "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=600&h=400&fit=crop",
+    "status": "upcoming",
+    "requirements": ["Team registration deadline: March 30", "Spectators welcome"],
+    "agenda": [
+      { "time": "08:00", "activity": "Team Registration" },
+      { "time": "09:00", "activity": "Opening Ceremony" },
+      { "time": "09:30", "activity": "Matches Begin" },
+      { "time": "17:00", "activity": "Finals" },
+      { "time": "18:00", "activity": "Awards Ceremony" }
+    ]
+  }
+]

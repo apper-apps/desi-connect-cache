@@ -1,0 +1,106 @@
+[
+  {
+    "Id": 1,
+    "name": "Fremont Desi Connect",
+    "location": {
+      "city": "Fremont",
+      "state": "CA",
+      "neighborhoods": ["Ardenwood", "Warm Springs", "Central Fremont"]
+    },
+    "memberCount": 1247,
+    "description": "The largest Indian community in Fremont connecting families, professionals, and students.",
+    "coverImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=400&fit=crop",
+    "category": "General Community",
+    "established": "2022-08-15",
+    "moderators": [1, 4],
+    "rules": [
+      "Be respectful and kind to all members",
+      "No spam or promotional content without approval",
+      "Keep discussions relevant to the community",
+      "Verify your profile for full access"
+    ],
+    "stats": {
+      "posts": 342,
+      "events": 28,
+      "businesses": 45
+    }
+  },
+  {
+    "Id": 2,
+    "name": "Bay Area Tech Indians",
+    "location": {
+      "city": "San Francisco Bay Area",
+      "state": "CA",
+      "neighborhoods": ["Multiple cities"]
+    },
+    "memberCount": 2156,
+    "description": "Connecting Indian tech professionals across the Bay Area for networking and career growth.",
+    "coverImage": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop",
+    "category": "Professional",
+    "established": "2022-06-20",
+    "moderators": [1],
+    "rules": [
+      "Professional discussions only",
+      "Share job opportunities freely",
+      "Mentorship encouraged",
+      "No personal attacks or discrimination"
+    ],
+    "stats": {
+      "posts": 567,
+      "events": 42,
+      "businesses": 23
+    }
+  },
+  {
+    "Id": 3,
+    "name": "Edison Indian Community",
+    "location": {
+      "city": "Edison",
+      "state": "NJ",
+      "neighborhoods": ["Oak Tree", "Iselin", "Menlo Park"]
+    },
+    "memberCount": 1832,
+    "description": "Edison's vibrant Indian community hub for cultural events, discussions, and local connections.",
+    "coverImage": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=800&h=400&fit=crop",
+    "category": "General Community",
+    "established": "2022-09-10",
+    "moderators": [2, 5],
+    "rules": [
+      "Celebrate diversity within Indian culture",
+      "Support local Indian businesses",
+      "Family-friendly content only",
+      "Help newcomers feel welcome"
+    ],
+    "stats": {
+      "posts": 428,
+      "events": 35,
+      "businesses": 67
+    }
+  },
+  {
+    "Id": 4,
+    "name": "Sugar Land Desi Hub",
+    "location": {
+      "city": "Sugar Land",
+      "state": "TX",
+      "neighborhoods": ["First Colony", "New Territory", "Greatwood"]
+    },
+    "memberCount": 976,
+    "description": "Connecting Indian families in Sugar Land through culture, food, and community spirit.",
+    "coverImage": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800&h=400&fit=crop",
+    "category": "Family & Culture",
+    "established": "2023-01-05",
+    "moderators": [3],
+    "rules": [
+      "Focus on family and cultural activities",
+      "Share local events and celebrations",
+      "Support community initiatives",
+      "Maintain positive environment"
+    ],
+    "stats": {
+      "posts": 245,
+      "events": 19,
+      "businesses": 34
+    }
+  }
+]

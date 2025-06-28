@@ -1,0 +1,97 @@
+[
+  {
+    "Id": 1,
+    "communityId": 1,
+    "authorId": 1,
+    "title": "Best Indian grocery stores in Fremont?",
+    "content": "Hi everyone! I'm new to Fremont and looking for recommendations for good Indian grocery stores. Specifically looking for fresh vegetables, spices, and frozen items. Any suggestions?",
+    "category": "Local Recommendations",
+    "tags": ["grocery", "shopping", "recommendations"],
+    "votes": 24,
+    "commentCount": 18,
+    "viewCount": 156,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-15T10:30:00Z",
+    "isPinned": false,
+    "comments": [
+      {
+        "id": 1,
+        "authorId": 4,
+        "content": "India Cash & Carry on Warm Springs is excellent! They have the best fresh vegetables and their spice selection is amazing.",
+        "votes": 8,
+        "createdAt": "2024-01-15T11:15:00Z"
+      },
+      {
+        "id": 2,
+        "authorId": 2,
+        "content": "I second India Cash & Carry. Also check out Apna Bazaar - they have great frozen food selection.",
+        "votes": 5,
+        "createdAt": "2024-01-15T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "communityId": 2,
+    "authorId": 4,
+    "title": "H1B to Green Card Timeline - Share Your Experience",
+    "content": "Hey fellow tech professionals! I'm currently in the H1B process and wondering about realistic timelines for green card applications. Would love to hear about your experiences and any tips you might have.",
+    "category": "Immigration & Legal",
+    "tags": ["h1b", "greencard", "immigration", "tech"],
+    "votes": 67,
+    "commentCount": 43,
+    "viewCount": 523,
+    "createdAt": "2024-01-12T14:20:00Z",
+    "updatedAt": "2024-01-12T14:20:00Z",
+    "isPinned": true,
+    "comments": []
+  },
+  {
+    "Id": 3,
+    "communityId": 1,
+    "authorId": 2,
+    "title": "Organizing Diwali Community Celebration",
+    "content": "It's that time of the year! I'm thinking of organizing a community Diwali celebration in Fremont. Looking for volunteers to help with planning, venue, food arrangements, and cultural programs. Who's interested?",
+    "category": "Events & Celebrations",
+    "tags": ["diwali", "celebration", "volunteer", "cultural"],
+    "votes": 45,
+    "commentCount": 32,
+    "viewCount": 287,
+    "createdAt": "2024-01-10T16:45:00Z",
+    "updatedAt": "2024-01-10T16:45:00Z",
+    "isPinned": false,
+    "comments": []
+  },
+  {
+    "Id": 4,
+    "communityId": 3,
+    "authorId": 5,
+    "title": "Indian Classical Music Classes in Edison",
+    "content": "Looking for recommendations for Carnatic music classes in the Edison area. Preferably for adult beginners. Also interested in knowing if there are any local music groups or practice sessions.",
+    "category": "Arts & Culture",
+    "tags": ["music", "classes", "carnatic", "arts"],
+    "votes": 12,
+    "commentCount": 9,
+    "viewCount": 78,
+    "createdAt": "2024-01-08T13:30:00Z",
+    "updatedAt": "2024-01-08T13:30:00Z",
+    "isPinned": false,
+    "comments": []
+  },
+  {
+    "Id": 5,
+    "communityId": 4,
+    "authorId": 3,
+    "title": "Sugar Land Mom's Group - Playdate This Weekend?",
+    "content": "Any moms interested in a playdate this weekend? Thinking of meeting at Oyster Creek Park. Kids can play while we chat and connect. Perfect weather for outdoor fun!",
+    "category": "Family & Kids",
+    "tags": ["playdate", "moms", "kids", "weekend"],
+    "votes": 18,
+    "commentCount": 14,
+    "viewCount": 92,
+    "createdAt": "2024-01-14T09:15:00Z",
+    "updatedAt": "2024-01-14T09:15:00Z",
+    "isPinned": false,
+    "comments": []
+  }
+]
